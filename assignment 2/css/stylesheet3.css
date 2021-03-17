@@ -1,0 +1,33 @@
+header{
+  text-align: left;
+  color: #c9e9ba;
+}
+
+body{
+  font-family: Georgia;
+  background-color: #79c753;
+}
+
+a{
+  color: #3a6a22;
+}
+
+img{
+  border: 4px dotted #f7fcf5;
+}
+
+h2{
+  color: #519430;
+}
+
+h3{
+  color: #519430
+}
+
+body{
+  color:#467f29
+}
+
+footer{
+  text-align: left;
+}

@@ -1,0 +1,33 @@
+header{
+  text-align: right;
+  color: #741b13;
+}
+
+body{
+  font-family: Verdana;
+  background-color: #dd4132;
+}
+
+a{
+  color: #f8d9d6;
+}
+
+img{
+  border: 3px Dashed #fbeff1;
+}
+
+h2{
+  color:#dd4132
+}
+
+h3{
+  color: #dd4132
+}
+
+body{
+  color: #ce2f47
+}
+
+footer{
+  text-align: right;
+}

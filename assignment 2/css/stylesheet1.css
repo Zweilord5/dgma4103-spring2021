@@ -1,9 +1,33 @@
 header{
   text-align: center;
-  color: red;
+  color: #b8ffee;
 }
 
 body{
   font-family: Garamond;
   background-color: #009b77;
+}
+
+a{
+  color: #005c46;
+}
+
+img{
+  border: 2px solid #29ffcd;
+}
+
+h2{
+  color: #b8ffee
+}
+
+h3{
+  color: #b8ffee
+}
+
+body{
+  color: #b8ffee
+}
+
+footer{
+  text-align: center;
 }
